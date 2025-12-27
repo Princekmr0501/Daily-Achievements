@@ -1,7 +1,7 @@
-## What i learnt 
+## What I learnt 
 * learnt about Git and Github
 
-## What i understand 
+## What I understand 
 * How git and github works 
 * Need for git and github in todays world 
 * why are they better from others 
